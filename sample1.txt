@@ -1,2 +1,2 @@
-sample file 1
+sample file one
 2nd commit
